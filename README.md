@@ -4,6 +4,10 @@
   <li> learnt implementation of flexbox how to change font sizes for different screens.</li>
   <li>learnt when to use absolute ab drelative css units like em rem vw vwh wtc</li>
  </ul>
+ 
+ <br>
+ 
+ <b>Link to page --> https://anfal17.github.io/media-query-basic-page/ </b>
 
  <br><br>
 ![project img 1](https://user-images.githubusercontent.com/92685449/220732844-354eccb7-50ee-46e2-bf75-23aa4ddad717.png)
